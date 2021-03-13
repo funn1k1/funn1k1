@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @funn1k1
+- 👋 Hi, I’m @funn1k1.
 - 👀 I’m interested in C#, Unity.
-- 🌱 I’m currently learning ASP.NET-Core
+- 🌱 I’m currently learning ASP.NET-Core.
 
 <!---
 funn1k1/funn1k1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

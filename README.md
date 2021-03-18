@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @funn1k1.
 - 👀 I’m interested in C#, Unity.
 - 🌱 I’m currently learning ASP.NET-Core.
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
 
 
 # Hello there 👋

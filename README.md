@@ -16,8 +16,8 @@
 
 class DataEngineer:
     def __init__(self):
-        self.name = "Zhenye Na"
-        self.role = "Data Engineer"
+        self.name = "funn1k1"
+        self.role = "Software Engineer"
         self.location = "34.0522\xc2\xb0 N, 118.2437\xc2\xb0 W"
         self.blog = "https://zhenye-na.github.io/"
         self.knowledge_base = [

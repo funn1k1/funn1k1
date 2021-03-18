@@ -5,15 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=funn1k1" alt="funn1k1" /></a> </p>
 
-- 🔭 I’m currently working on [Online-Store](https://github.com/funn1k1/E-Store)
+- 🔭 I’m currently working on [Online-Store](https://github.com/funn1k1/E-Store).
 
-- 🌱 I’m currently learning **Frameworks**
+- 🌱 I’m currently learning **Frameworks**.
 
-- 👨‍💻 All of my projects are available at [https://github.com/funn1k1](https://github.com/funn1k1)
+- 👨‍💻 All of my projects are available at [https://github.com/funn1k1](https://github.com/funn1k1).
 
-- 📫 How to reach me **2222asd11@list.ru**
-
-- ⚡ Fun fact **I think, I'm funny**
+- 📫 How to reach me: **2222asd11@list.ru**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @funn1k1.
-- 👀 I’m interested in C#, Unity.
-- 🌱 I’m currently learning ASP.NET-Core.
-
 <h1 align="center">Hi 👋, I'm funn1k</h1>
 <h3 align="center">Software Engineer</h3>
 

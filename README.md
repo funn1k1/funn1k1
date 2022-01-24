@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm funn1k</h1>
 <h3 align="center">Software Engineer</h3>
+<h3 align="center">Interested in web development, software development, cybersecurity...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=funn1k1&label=Profile%20views&color=b40e37&style=flat" alt="funn1k1" /> </p>
 

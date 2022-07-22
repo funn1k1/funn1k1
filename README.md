@@ -15,6 +15,7 @@
   </div>
   <h4 align="center">Interested in web development, software development, cybersecurity...</h4>
 </div>
+<h3 align="left">:man_technologist: About Me:</h3>
 
 - 🔭 I’m currently working on [Online-Store](https://github.com/funn1k1/E-Store).
 
@@ -25,7 +26,7 @@
 - 📫 How to reach me: **2222asd11@list.ru**.
 
 <div class="lang__tools">
-  <h3 align="left">Languages and Tools:</h3>
+  <h3 align="left">:hammer_and_wrench: Languages and Tools:</h3>
   <p align="left">
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
@@ -82,7 +83,8 @@
 </div>
 
 <div class="stats">
-  <h3 align="left">My Stats:</h3>
+   
+  <h3 align="left">:fire: My Stats:</h3>
   <p>
     <img src="https://komarev.com/ghpvc/?username=funn1k1&label=Profile%20views&color=b40e37&style=flat" alt="funn1k1" /> 
   </p>

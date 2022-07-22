@@ -35,8 +35,8 @@
   <a href="https://visualstudio.microsoft.com/vs/community/" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visual studio" width="40" height="40"/>
   </a>
-  <a href="[https://visualstudio.microsoft.com/vs/community/" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" alt="" width="40" height="40" />
+  <a href="https://dotnet.microsoft.com/en-us/download/dotnet-framework" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg"> alt="net framework" width="40" height="40" />
   </a>
   <a href="https://dotnet.microsoft.com/en-us/download" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="net core" width="40" height="40"/>

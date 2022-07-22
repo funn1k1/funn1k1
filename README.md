@@ -35,7 +35,12 @@
   <a href="https://visualstudio.microsoft.com/vs/community/" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visual studio" width="40" height="40"/>
   </a>
-
+  <a href="[https://visualstudio.microsoft.com/vs/community/" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" alt="" width="40" height="40" />
+  </a>
+  <a href="https://dotnet.microsoft.com/en-us/download" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="net core" width="40" height="40"/>
+  </a>
   <a href="https://www.javascript.com/" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>

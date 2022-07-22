@@ -1,10 +1,16 @@
 <h1 align="center">Hi 👋, I'm funn1k</h1>
+
 <h3 align="center">Software Engineer</h3>
+
 <h4 align="center">Interested in web development, software development, cybersecurity...</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=funn1k1&label=Profile%20views&color=b40e37&style=flat" alt="funn1k1" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=funn1k1&label=Profile%20views&color=b40e37&style=flat" alt="funn1k1" /> 
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=funn1k1" alt="funn1k1" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=funn1k1" alt="funn1k1" /></a> 
+</p>
 
 - 🔭 I’m currently working on [Online-Store](https://github.com/funn1k1/E-Store).
 
@@ -16,14 +22,19 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/channel/UCIb8-DvSFcanxJB-wcYFrow/featured" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/ucib8-dvsfcanxjb-wcyfrow" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/channel/UCIb8-DvSFcanxJB-wcYFrow/featured" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/ucib8-dvsfcanxjb-wcyfrow"      height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-  </a> 
+  </a>
+  <a href="https://www.javascript.com/" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  </a>
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
@@ -74,8 +85,16 @@
   </a> 
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=funn1k1&show_icons=true&locale=en" alt="funn1k1" /></p>
+<p>
+  &nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=funn1k1&show_icons=true&locale=en" alt="funn1k1" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=funn1k1&" alt="funn1k1" /></p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=funn1k1&" alt="funn1k1" />
+</p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=funn1k1&show_icons=true&locale=en&layout=compact" alt="funn1k1" /></p>
+<p>
+  &nbsp;
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=funn1k1&show_icons=true&locale=en&layout=compact" alt="funn1k1" />
+</p>

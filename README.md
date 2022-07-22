@@ -16,6 +16,7 @@
   <h4 align="center">Interested in web development, software development, cybersecurity...</h4>
 </div>
 <h3 align="left">:man_technologist: About Me:</h3>
+<p>I am a Full-Stack Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" /> from Belarus</p>
 
 - 🔭 I’m currently working on [Online-Store](https://github.com/funn1k1/E-Store).
 
@@ -42,6 +43,9 @@
     </a>
     <a href="https://www.javascript.com/" target="_blank"> 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    </a>
+    <a href="https://www.javascript.com/" target="_blank"> 
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="40" height="40"/>
     </a>
     <a href="https://www.typescriptlang.org/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>

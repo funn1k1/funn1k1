@@ -21,7 +21,7 @@
 
 - 🌱 I’m currently learning **Frameworks**.
 
-- 👨‍💻 All of my projects are available at [https://github.com/funn1k1](https://github.com/funn1k1).
+- 👨‍💻 All of my projects are available at [Github](https://github.com/funn1k1).
 
 - 📫 How to reach me: **2222asd11@list.ru**.
 

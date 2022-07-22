@@ -53,6 +53,12 @@
     <a href="https://angular.io/" target="_blank">
       <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
     </a>
+    <a href="https://www.docker.com/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+    </a>
+    <a href="https://kubernetes.io/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="40" height="40"/>
+    </a>
     <a href="https://www.w3schools.com/html/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/>
     </a>
@@ -64,8 +70,7 @@
     </a> 
     <a href="https://getbootstrap.com" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-    </a>
-    <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank">
+    </a>    <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank">
       <img src="https://cdn-icons.flaticon.com/png/512/4248/premium/4248443.png?token=exp=1658486092~hmac=c21e82ca1745402026d99bcd98cf3cb4" alt="sql server" width="40" height="40"/>
     </a>
     <a href="https://www.oracle.com/database/technologies/oracle-database-software-downloads.html" target="_blank">

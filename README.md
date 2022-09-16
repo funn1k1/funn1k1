@@ -18,7 +18,7 @@
 <h3 align="left">:man_technologist: About Me:</h3>
 <p>I am a Full-Stack Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" /> from Belarus</p>
 
-- 🔭 I’m currently working on [Online-Store](https://github.com/funn1k1/E-Store).
+- 🔭 I’m currently working on [Mini Angular Blog](https://github.com/funn1k1/Angular_Blog-mini-).
 
 - 🌱 I’m currently learning **Frameworks**.
 

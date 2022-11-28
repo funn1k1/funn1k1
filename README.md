@@ -105,7 +105,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=funn1k1&show_icons=true&theme=radical" alt="funn1k1" />
   </p>
   <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=funn1k1&" alt="funn1k1" />
+    <img align="center" src="https://streak-stats.demolab.com?user=funn1k1&theme=dracula" alt="funn1k1" />
   </p>
   <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=funn1k1&show_icons=true&layout=compact" alt="funn1k1" />

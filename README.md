@@ -96,10 +96,10 @@
    
   <h3 align="left">:fire: My Stats:</h3>
   <p>
-    <img src="https://komarev.com/ghpvc/?username=funn1k1&label=Profile%20views&color=b40e37&style=flat" alt="funn1k1" /> 
+    <img align="center" src="https://komarev.com/ghpvc/?username=funn1k1&label=Profile%20views&color=b40e37&style=flat" alt="funn1k1" /> 
   </p>
   <p>
-    <img src="https://github-profile-trophy.vercel.app/?username=funn1k1&theme=dracula" alt="funn1k1" />
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=funn1k1&theme=dracula" alt="funn1k1" />
   </p>
   <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=funn1k1&show_icons=true&theme=radical" alt="funn1k1" />
@@ -108,6 +108,6 @@
     <img align="center" src="https://streak-stats.demolab.com?user=funn1k1&theme=dracula" alt="funn1k1" />
   </p>
   <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=funn1k1&show_icons=true&layout=compact" alt="funn1k1" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=funn1k1&show_icons=true&layout=compact" alt="funn1k1" />
   </p>
 </div>

@@ -99,7 +99,7 @@
     <img src="https://komarev.com/ghpvc/?username=funn1k1&label=Profile%20views&color=b40e37&style=flat" alt="funn1k1" /> 
   </p>
   <p>
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=funn1k1" alt="funn1k1" /></a> 
+    <img src="https://github-profile-trophy.vercel.app/?username=funn1k1&theme=dracula" alt="funn1k1" />
   </p>
   <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=funn1k1&show_icons=true&theme=radical" alt="funn1k1" />

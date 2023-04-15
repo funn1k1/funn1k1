@@ -77,6 +77,9 @@
     <a href="https://www.oracle.com/database/technologies/oracle-database-software-downloads.html" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
     </a>
+    <a href="https://www.postgresql.org" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" alt="postgre" width="40" height="40"/>
+    </a>
     <a href="https://the-algorithms.com/" target="_blank"> 
       <img src="https://avatars.githubusercontent.com/u/20487725?s=200&v=4" alt="algorithms" width="40" height="40"/> 
     </a>

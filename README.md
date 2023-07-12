@@ -16,7 +16,7 @@
   <h4 align="center">Interested in web development, software development, cybersecurity...</h4>
 </div>
 <h3 align="left">:man_technologist: About Me:</h3>
-<p>I am a Full-Stack Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" /> from Belarus</p>
+<p>I am a Full-Stack .NET Engineer (mostly Backend) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" /> from Belarus</p>
 
 - 🔭 I’m currently working on [Book Shop](https://github.com/funn1k1/BookShop_MVC).
 

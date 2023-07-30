@@ -63,17 +63,11 @@
     <a href="https://www.w3schools.com/css/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/>
     </a>
-    <a href="https://www.figma.com/" target="_blank"> 
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> 
-    </a> 
     <a href="https://getbootstrap.com" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
     </a>    
     <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank">
       <img src="https://i.ibb.co/CVhvcrW/sql-server-icon-png-11352.png" alt="sql server" width="40" height="40"/>
-    </a>
-    <a href="https://www.oracle.com/database/technologies/oracle-database-software-downloads.html" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
     </a>
     <a href="https://www.postgresql.org" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" alt="postgre" width="40" height="40"/>

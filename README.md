@@ -6,6 +6,9 @@
     <a href="https://www.linkedin.com/in/eugene-yukovich-71a267118">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
+    <a href="https://www.reddit.com/user/_funn1k_">
+      <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/>
+    </a>
     <a href="https://www.youtube.com/channel/UCIb8-DvSFcanxJB-wcYFrow">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>

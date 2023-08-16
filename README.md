@@ -3,8 +3,8 @@
   <h3>Software Engineer</h3>
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
-    <a href="your-linkedin-URL">
-      <img src="https://www.linkedin.com/in/eugene-yukovich-71a267118" alt="LinkedIn Badge"/>
+    <a href="https://www.linkedin.com/in/eugene-yukovich-71a267118">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://www.youtube.com/channel/UCIb8-DvSFcanxJB-wcYFrow">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>

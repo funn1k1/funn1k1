@@ -23,7 +23,7 @@
 
 - 🔭 I’m currently working on [Book Shop](https://github.com/funn1k1/BookShop_MVC).
 
-- 🌱 I’m currently learning **Frameworks**.
+- 🌱 I’m currently learning **Frameworks** and **Algorithms**.
 
 - 📫 How to reach me: **2222asd11@list.ru**.
 

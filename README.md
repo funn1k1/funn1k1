@@ -16,7 +16,7 @@
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
-  <h4 align="center">Interested in web development, software development, cybersecurity...</h4>
+  <h4 align="center">Interested in web development, software development</h4>
 </div>
 <h3 align="left">:man_technologist: About Me:</h3>
 <p>I am a Full-Stack .NET Engineer (mostly Backend) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" /> from Belarus</p>

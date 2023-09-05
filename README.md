@@ -87,9 +87,6 @@
     <a href="https://github.com/" target="_blank"> 
       <img src="https://img.icons8.com/nolan/452/github.png" alt="github" width="40" height="40"/> 
     </a>
-    <a href="https://www.linux.org/" target="_blank"> 
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-    </a> 
   </p>
 </div>
 

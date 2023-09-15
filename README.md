@@ -21,7 +21,7 @@
 <h3 align="left">:man_technologist: About Me:</h3>
 <p>I am a Full-Stack .NET Engineer (mostly Backend) from Belarus.</p>
 
-- 🔭 I’m currently working on [Book Shop](https://github.com/funn1k1/BookShop_MVC).
+- 🔭 I’m currently working on [Hotel Managment API](https://github.com/funn1k1/HotelManagmentAPI).
 
 - 🌱 I’m currently learning **Frameworks** and **Algorithms**.
 

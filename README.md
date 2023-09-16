@@ -23,9 +23,9 @@
 
 - 🔭 I’m currently working on [Hotel Managment API](https://github.com/funn1k1/HotelManagmentAPI).
 
-- 🌱 I’m currently learning **Frameworks** and **Algorithms**.
+- 🌱 I’m currently learning **Frameworks** and **Algorithms**
 
-- 📫 How to reach me: **2222asd11@list.ru**.
+- 📫 How to reach me: **2222asd11@list.ru**
 
 <div class="lang__tools">
   <h3 align="left">:hammer_and_wrench: Languages and Tools:</h3>
